@@ -1,1 +1,22 @@
-# Lagu-ini-Untuk-Mu
+{
+  "name": "lagu-ini-untukmu",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "lucide-react": "^0.400.0",
+    "next": "14.2.16",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "typescript": "^5"
+  }
+}# Lagu-ini-Untuk-Mu
